@@ -11,14 +11,14 @@ PI = 3.1416;
 e = 2.71;
 
 # display values
-print "year = ", year
-print "sentence = ", sentence;
-print "\nsarah =", sarah, "\nbob =", bob, "\nmike =", mike;
-print "\n\t name = ", name;
-print "\n\t age = ", age;
-print mary, fer 
-print PI 
-print e
+print ("year = ", year)
+print ("sentence = ", sentence)
+print ("\nsarah =", sarah, "\nbob =", bob, "\nmike =", mike);
+print ("\n\t name = ", name);
+print ("\n\t age = ", age);
+print (mary, fer) 
+print (PI) 
+print (e)
 
 
 
